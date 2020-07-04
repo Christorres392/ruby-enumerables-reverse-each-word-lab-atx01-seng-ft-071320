@@ -8,4 +8,3 @@ new_sentence << reversed
 end
 new_sentence
 end
-
