@@ -7,3 +7,5 @@ def reverse_each_word (sentence)
 new_sentence << reversed
 end
 end
+new_sentence
+end
