@@ -1,4 +1,6 @@
 def reverse_each_word (sen)
-sen.split.each.reverse do |str|
+sen.split.each do |str|
+  str.reverse
+  
 end
 end
