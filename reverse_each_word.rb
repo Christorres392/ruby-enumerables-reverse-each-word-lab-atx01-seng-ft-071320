@@ -3,4 +3,3 @@ sen.split.each do |str|
   str.reverse
   
 end
-end
